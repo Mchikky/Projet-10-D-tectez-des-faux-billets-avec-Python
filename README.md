@@ -5,4 +5,4 @@ Mettre en place une modélisation qui sérait capable d'identifier automatiqueme
 2. Mettre en concurrence 2 méthodes de prédiction : 
 	a.) Une régression logistique classique
 	b.) Un K-Means, duquel seront utilisés les centroïdes pour 	réaliser la prediction
-3. Des matrices de confusion pour des évaluations optimales des modèles 
+3. Des matrices de confusion pour des évaluations optimales des modèles. 
