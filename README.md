@@ -7,7 +7,8 @@ OBJECTIVES: Detect counterfeit banknotes with Python by setting up a model capab
    - b. A K-Means clustering, where centroids are used to make predictions.
 3. Use confusion matrices for optimal model evaluation.
 
-# Projet 10: Detectez des faux billets avec Python
+# Projet 10 (French)
+Detectez des faux billets avec Python
 
 OBJECTIFS
 Détectez des faux billets avec Python
