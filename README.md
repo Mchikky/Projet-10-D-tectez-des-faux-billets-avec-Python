@@ -6,13 +6,19 @@ Detect counterfeit banknotes with Python by setting up a model capable of automa
 2. Compare the models stating the significances.
 
 ## Data Preprocessing
-1. Import csv files
+1. Import billet.csv file
+<img width="1187" alt="a" src="https://github.com/user-attachments/assets/5c956f3f-2a09-47fd-b081-398205ae4a6b" />
+
 2. Studied the data values, checked the columns and rows for duplicates.
+<img width="1040" alt="aa" src="https://github.com/user-attachments/assets/23e595b6-10ec-4758-92f0-221706c4beb1" />
+
 3. Used linear regression to impute missing values.
 
 ## Exploratory Data Analysis (EDA)
 Conduct an exploratory and descriptive data analysis
 1. Checked the distribution of the data
+<img width="947" alt="aaa" src="https://github.com/user-attachments/assets/6a21cf1b-14ed-409e-8124-f89b72576961" />
+
 
 ## Data Analysis
 1. Compare two prediction methods:
