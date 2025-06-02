@@ -10,7 +10,7 @@ Detect counterfeit banknotes with Python by setting up a model capable of automa
    
 <img width="1187" alt="a" src="https://github.com/user-attachments/assets/5c956f3f-2a09-47fd-b081-398205ae4a6b" />
 
-3. Studied the data values, checked the columns and rows for duplicates.
+3. Studied the data values, checked for missing values and duplicates.
    
 <img width="1040" alt="aa" src="https://github.com/user-attachments/assets/23e595b6-10ec-4758-92f0-221706c4beb1" />
 
