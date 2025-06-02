@@ -46,6 +46,10 @@ Plus la variance expliquée par le modèle de régression est importante, plus l
 ## Data Analysis
 1. Compare two prediction methods:
    - a. A traditional logistic regression
+<img width="973" alt="aaaa" src="https://github.com/user-attachments/assets/1b5a98ba-0612-4bbb-a6a6-ac1dcf0e654f" />
+
+<img width="1034" alt="aaaaa" src="https://github.com/user-attachments/assets/2f55e023-b743-4514-818c-16abf05423df" />
+
 <img width="1290" alt="aaaaaa" src="https://github.com/user-attachments/assets/d813e7aa-2be6-4251-a1d9-301159ccdede" />
 
 <img width="1169" alt="aaaaaaa" src="https://github.com/user-attachments/assets/8d130660-5193-4bdc-9209-ac91964c8aec" />
