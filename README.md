@@ -57,16 +57,14 @@ Predicted missing values
 <img width="1290" alt="aaaaaa" src="https://github.com/user-attachments/assets/d813e7aa-2be6-4251-a1d9-301159ccdede" />
 
 
-<img width="1290" alt="aaaaaa" src="https://github.com/user-attachments/assets/5b971ea7-a51f-4f44-bc61-bdf372ad77b1" />
-
-
    - b. A K-Means clustering, where centroids are used to make predictions.
 
 <img width="1007" alt="aa" src="https://github.com/user-attachments/assets/8046ae03-0d37-4cd1-906f-421ce8ba1dc5" />
 
 <img width="1187" alt="aaa" src="https://github.com/user-attachments/assets/62d57da3-fe84-4e03-998c-88b70708c6a8" />
 
-<img width="1187" alt="aaa" src="https://github.com/user-attachments/assets/9262578d-b05b-4c8b-9e38-93f5b426b7db" />
+<img width="1089" alt="aaaaa" src="https://github.com/user-attachments/assets/8d100846-5092-451b-bf50-a38e16960997" />
+
 
 2. Use confusion matrices for optimal model evaluation.
 <img width="942" alt="aaa" src="https://github.com/user-attachments/assets/2fa578f6-9910-460d-8b15-4b309902ef65" />
