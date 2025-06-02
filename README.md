@@ -34,6 +34,12 @@ Conduct an exploratory and descriptive data analysis
 
 <img width="973" alt="aaaa" src="https://github.com/user-attachments/assets/dc4881da-9782-47a8-baa1-018d8ff8785e" />
 
+Le modèle de régression représente 48 % de la variance de la variable dépendante (y) qui provient de celles des variables indépendantes (X).
+
+Le coefficient de détermination, R2 (R-carré) est le carré de la corrélation de Pearson entre valeurs prédites et vraies valeurs. Il mesure la qualité de l’ajustement d’un modèle de régression.
+- R-carré = Variation expliquée (SCE)/ Variation totale (SCT)
+- Le coefficient de détermination se situe entre 0 et 1.
+Plus la variance expliquée par le modèle de régression est importante, plus les points de données se rapprocheront de la ligne de régression ajustée.
 
 ## Data Analysis
 1. Compare two prediction methods:
