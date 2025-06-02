@@ -41,9 +41,22 @@ Le coefficient de détermination, R2 (R-carré) est le carré de la corrélation
 - Le coefficient de détermination se situe entre 0 et 1.
 Plus la variance expliquée par le modèle de régression est importante, plus les points de données se rapprocheront de la ligne de régression ajustée.
 
+<img width="973" alt="aaaa" src="https://github.com/user-attachments/assets/1b5a98ba-0612-4bbb-a6a6-ac1dcf0e654f" />
+
+<img width="1034" alt="aaaaa" src="https://github.com/user-attachments/assets/2f55e023-b743-4514-818c-16abf05423df" />
+
 ## Data Analysis
 1. Compare two prediction methods:
    - a. A traditional logistic regression
+<img width="1290" alt="aaaaaa" src="https://github.com/user-attachments/assets/d813e7aa-2be6-4251-a1d9-301159ccdede" />
+
+<img width="1169" alt="aaaaaaa" src="https://github.com/user-attachments/assets/8d130660-5193-4bdc-9209-ac91964c8aec" />
+
+<img width="1169" alt="aaaaaaa" src="https://github.com/user-attachments/assets/42600043-1660-4d33-841a-29d250cc8633" />
+<img width="1290" alt="aaaaaa" src="https://github.com/user-attachments/assets/5b971ea7-a51f-4f44-bc61-bdf372ad77b1" />
+
+<img width="1094" alt="aaaaaaaa" src="https://github.com/user-attachments/assets/89cc3062-7dde-49a2-bcc9-28d050764f44" />
+
    - b. A K-Means clustering, where centroids are used to make predictions.
 2. Use confusion matrices for optimal model evaluation.
 
