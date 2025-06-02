@@ -1,16 +1,18 @@
 # Project 10: Detect counterfeit banknotes with Python 
 
-## OBJECTIVES 
+## Objectives 
 Detect counterfeit banknotes with Python by setting up a model capable of automatically identifying real and fake notes.
 1. Implement models that would be able to automatically identify real from counterfeit banknotes, based solely on certain dimensions of the banknote and the elements that compose it.
-2. Compare the models.
+2. Compare the models stating the significances.
 
 ## Data Preprocessing
+1. Import csv files
+2. Studied the data values, checked the columns and rows for duplicates.
+3. Used linear regression to impute missing values.
 
 ## Exploratory Data Analysis (EDA)
 Conduct an exploratory and descriptive data analysis
-1.
-2. Perform linear regression to fill in missing values.
+1. Checked the distribution of the data
 
 ## Data Analysis
 1. Compare two prediction methods:
