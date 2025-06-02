@@ -14,8 +14,8 @@ Detect counterfeit banknotes with Python by setting up a model capable of automa
    
 <img width="1040" alt="aa" src="https://github.com/user-attachments/assets/23e595b6-10ec-4758-92f0-221706c4beb1" />
 
-3. Identified outliers
 
+3. Identified outliers
 <img width="959" alt="aaa" src="https://github.com/user-attachments/assets/e47bbb28-d062-47ba-82ff-065c1a87e949" />
 
 
