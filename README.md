@@ -41,9 +41,7 @@ Le coefficient de détermination, R2 (R-carré) est le carré de la corrélation
 - Le coefficient de détermination se situe entre 0 et 1.
 Plus la variance expliquée par le modèle de régression est importante, plus les points de données se rapprocheront de la ligne de régression ajustée.
 
-<img width="973" alt="aaaa" src="https://github.com/user-attachments/assets/1b5a98ba-0612-4bbb-a6a6-ac1dcf0e654f" />
 
-<img width="1034" alt="aaaaa" src="https://github.com/user-attachments/assets/2f55e023-b743-4514-818c-16abf05423df" />
 
 ## Data Analysis
 1. Compare two prediction methods:
