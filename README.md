@@ -31,6 +31,7 @@ Conduct an exploratory and descriptive data analysis
 
 
 3. Used linear regression to impute missing values.
+Linear Regression
 
 <img width="973" alt="aaaa" src="https://github.com/user-attachments/assets/dc4881da-9782-47a8-baa1-018d8ff8785e" />
 
@@ -43,6 +44,12 @@ Plus la variance expliquée par le modèle de régression est importante, plus l
 
 <img width="1094" alt="aaaaaaaa" src="https://github.com/user-attachments/assets/89cc3062-7dde-49a2-bcc9-28d050764f44" />
 
+Predict missing values
+
+<img width="1169" alt="aaaaaaa" src="https://github.com/user-attachments/assets/8d130660-5193-4bdc-9209-ac91964c8aec" />
+
+<img width="1169" alt="aaaaaaa" src="https://github.com/user-attachments/assets/42600043-1660-4d33-841a-29d250cc8633" />
+
 
 ## Data Analysis
 1. Compare two prediction methods:
@@ -50,9 +57,7 @@ Plus la variance expliquée par le modèle de régression est importante, plus l
 
 <img width="1290" alt="aaaaaa" src="https://github.com/user-attachments/assets/d813e7aa-2be6-4251-a1d9-301159ccdede" />
 
-<img width="1169" alt="aaaaaaa" src="https://github.com/user-attachments/assets/8d130660-5193-4bdc-9209-ac91964c8aec" />
 
-<img width="1169" alt="aaaaaaa" src="https://github.com/user-attachments/assets/42600043-1660-4d33-841a-29d250cc8633" />
 <img width="1290" alt="aaaaaa" src="https://github.com/user-attachments/assets/5b971ea7-a51f-4f44-bc61-bdf372ad77b1" />
 
 
