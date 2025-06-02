@@ -15,7 +15,6 @@ Detect counterfeit banknotes with Python by setting up a model capable of automa
 <img width="1040" alt="aa" src="https://github.com/user-attachments/assets/23e595b6-10ec-4758-92f0-221706c4beb1" />
 
 3. Identified outliers
-   
 <img width="959" alt="aaa" src="https://github.com/user-attachments/assets/e47bbb28-d062-47ba-82ff-065c1a87e949" />
 
 
@@ -31,6 +30,7 @@ Conduct an exploratory and descriptive data analysis
 
 
 3. Used linear regression to impute missing values.
+
 Linear Regression
 
 <img width="973" alt="aaaa" src="https://github.com/user-attachments/assets/dc4881da-9782-47a8-baa1-018d8ff8785e" />
