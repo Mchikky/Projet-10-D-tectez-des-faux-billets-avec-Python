@@ -10,18 +10,29 @@ Detect counterfeit banknotes with Python by setting up a model capable of automa
    
 <img width="1187" alt="a" src="https://github.com/user-attachments/assets/5c956f3f-2a09-47fd-b081-398205ae4a6b" />
 
-3. Studied the data values, checked for missing values and duplicates.
+2. Studied the data values, checked for missing values and duplicates.
    
 <img width="1040" alt="aa" src="https://github.com/user-attachments/assets/23e595b6-10ec-4758-92f0-221706c4beb1" />
 
-4. Used linear regression to impute missing values.
-<img width="867" alt="aa" src="https://github.com/user-attachments/assets/3ceae67f-87c0-4c5f-9ae7-30533d791d88" />
+3. Identified outliers
+
+<img width="959" alt="aaa" src="https://github.com/user-attachments/assets/e47bbb28-d062-47ba-82ff-065c1a87e949" />
+
 
 ## Exploratory Data Analysis (EDA)
 Conduct an exploratory and descriptive data analysis
 1. Checked the distribution of the data
 
 <img width="947" alt="aaa" src="https://github.com/user-attachments/assets/6a21cf1b-14ed-409e-8124-f89b72576961" />
+
+2. Correlation
+
+<img width="867" alt="aa" src="https://github.com/user-attachments/assets/3ceae67f-87c0-4c5f-9ae7-30533d791d88" />
+
+
+3. Used linear regression to impute missing values.
+
+<img width="973" alt="aaaa" src="https://github.com/user-attachments/assets/dc4881da-9782-47a8-baa1-018d8ff8785e" />
 
 
 ## Data Analysis
