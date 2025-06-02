@@ -14,8 +14,7 @@ Detect counterfeit banknotes with Python by setting up a model capable of automa
    
 <img width="1040" alt="aa" src="https://github.com/user-attachments/assets/23e595b6-10ec-4758-92f0-221706c4beb1" />
 
-3. Identified outliers
-<img width="959" alt="aaa" src="https://github.com/user-attachments/assets/e47bbb28-d062-47ba-82ff-065c1a87e949" />
+3. Identified outliers <img width="959" alt="aaa" src="https://github.com/user-attachments/assets/e47bbb28-d062-47ba-82ff-065c1a87e949" />
 
 
 ## Exploratory Data Analysis (EDA)
@@ -44,7 +43,7 @@ Plus la variance expliquée par le modèle de régression est importante, plus l
 
 <img width="1094" alt="aaaaaaaa" src="https://github.com/user-attachments/assets/89cc3062-7dde-49a2-bcc9-28d050764f44" />
 
-Predict missing values
+Predicted missing values
 
 <img width="1169" alt="aaaaaaa" src="https://github.com/user-attachments/assets/8d130660-5193-4bdc-9209-ac91964c8aec" />
 
