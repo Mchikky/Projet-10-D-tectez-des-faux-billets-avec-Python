@@ -15,6 +15,7 @@ Detect counterfeit banknotes with Python by setting up a model capable of automa
 <img width="1040" alt="aa" src="https://github.com/user-attachments/assets/23e595b6-10ec-4758-92f0-221706c4beb1" />
 
 4. Used linear regression to impute missing values.
+<img width="867" alt="aa" src="https://github.com/user-attachments/assets/3ceae67f-87c0-4c5f-9ae7-30533d791d88" />
 
 ## Exploratory Data Analysis (EDA)
 Conduct an exploratory and descriptive data analysis
