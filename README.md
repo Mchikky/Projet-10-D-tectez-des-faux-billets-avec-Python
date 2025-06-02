@@ -52,12 +52,12 @@ Predicted missing values
 
 ## Data Analysis
 1. Compare two prediction methods:
-- A traditional logistic regression
+- Traditional logistic regression
 
 <img width="1290" alt="aaaaaa" src="https://github.com/user-attachments/assets/d813e7aa-2be6-4251-a1d9-301159ccdede" />
 
 
-- A K-Means clustering, where centroids are used to make predictions.
+- K-Means clustering, where centroids are used to make predictions.
 
 <img width="1007" alt="aa" src="https://github.com/user-attachments/assets/8046ae03-0d37-4cd1-906f-421ce8ba1dc5" />
 
