@@ -61,7 +61,10 @@ Predicted missing values
 
 
    - b. A K-Means clustering, where centroids are used to make predictions.
+
 2. Use confusion matrices for optimal model evaluation.
+<img width="942" alt="aaa" src="https://github.com/user-attachments/assets/2fa578f6-9910-460d-8b15-4b309902ef65" />
+
 
 # Projet 10 (French)
 Detectez des faux billets avec Python
