@@ -56,6 +56,8 @@ Predicted missing values
 
 <img width="1290" alt="aaaaaa" src="https://github.com/user-attachments/assets/d813e7aa-2be6-4251-a1d9-301159ccdede" />
 
+<img width="1003" alt="aa" src="https://github.com/user-attachments/assets/fe6a1df6-456b-49ae-8e97-e86b261b6914" />
+
 
 - K-Means clustering, where centroids are used to make predictions.
 
