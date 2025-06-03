@@ -69,6 +69,21 @@ Predicted missing values
 2. Use confusion matrices for optimal model evaluation.
 <img width="942" alt="aaa" src="https://github.com/user-attachments/assets/2fa578f6-9910-460d-8b15-4b309902ef65" />
 
+## Insights and Results
+- Applying the logistic regression model to the 'billets_production' data: The classification of each banknote gives the probability that a banknote is genuine or counterfeit.
+A probability greater than or equal to 0.5 indicates a genuine banknote.
+A probability less than 0.5 is considered a counterfeit banknote.
+
+<img width="1166" alt="aa" src="https://github.com/user-attachments/assets/8f2b897f-3858-442b-a598-10c94ef819c0" />
+
+- Applying the k-means model to the 'billets_production' data: The k-means algorithm allows us to calculate the centers of sample partitions, called "centroids," iteratively by minimizing the distance between points within a partition and maximizing the distance between partitions until the centroids no longer change significantly, or after a number of iterations fixed in advance.
+  
+<img width="1259" alt="aaa" src="https://github.com/user-attachments/assets/04e1edaa-7d0f-42b2-be28-f24c4fc197a1" />
+
+## Recommendation
+The prediction by the logistic regression model is more stable and performs better than the prediction by the k-Means model.
+
+
 
 # Projet 10 (French)
 Detectez des faux billets avec Python
